@@ -1,0 +1,16 @@
+.flashy{
+color:#ff0000;
+font-style:italic;
+}
+
+li.best{
+font-family:cursive;
+font-size:18px;
+}
+
+body{
+  background-color:orange;
+}
+li{
+  text-align:center;
+}
